@@ -43,7 +43,7 @@ public class DBService {
 		Todo t4 = new Todo();
 		t4.setId(null);
 		t4.setTitulo("Livro");
-		t4.setDescricao("Ler o livro 1984");
+		t4.setDescricao("Ler o livro 1984.");
 		t4.setDataParaFinalizar(sdf.parse("25/03/2022"));
 		t4.setFinalizado(true);
 		
